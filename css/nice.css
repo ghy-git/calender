@@ -1,0 +1,39 @@
+.title_span{
+    cursor: pointer;
+}
+
+#h4{
+
+}
+#calender{
+    background-color: #FFFFFF;
+    margin:5%;
+    height: 100%;
+}
+.title_span{
+    margin: 0;
+    margin-left: 7%;
+}
+.main_span_title{
+    margin: 0;
+    margin-left: 7%;
+    text-align: center;
+}
+#allShell .main_title span:nth-child(1){
+    margin-left: 0;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main .main_span,.main .main_span_hide{
+    margin: 0;
+    width:7%;
+    text-align: center;
+}
+.main .main_span_hide{
+    opacity:0.4;
+}
+
